@@ -1,4 +1,5 @@
-## Casos de uso resumidos para acordar el alcance funcional
+# Casos de uso resumidos para acordar el alcance funcional
+
 En la materia Laboratorio de Software se realizará un frontend (aplicación android) que sirva para el armado de los bolsones de productos agroecológicos. La aplicación básicamente reemplaza planillas que se llenan a mano y recopilan qué cultivos están sembrados en cada quinta. Sin embargo nos comentaron que no contaremos con un backend, que debemos suponer que existe.
 La idea nuestra es realizar dicho backend. Las funciones principales serán:
 
